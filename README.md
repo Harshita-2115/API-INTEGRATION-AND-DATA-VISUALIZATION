@@ -81,6 +81,4 @@ Provides up-to-date statewise COVID-19 statistics in JSON format.
 
 📊 Project Output
 
--A Python script that fetches and analyzes COVID-19 data
-
--A bar graph showing the Top 10 Indian States by Confirmed COVID-19 Cases
+<img width="1228" height="737" alt="Image" src="https://github.com/user-attachments/assets/aa8e67cc-e84e-4a9b-a3d9-3a0f09dbe143" />
